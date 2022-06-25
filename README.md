@@ -1,4 +1,5 @@
 # Buggs-Bunny-Lost-in-Time-Game
-An automated turn-based multiplayer game
+An automated random turn-based multiplayer game
 
-Demo: https://www.youtube.com/watch?v=mp2IP5O591Y
+## Demo: 
+[Bugs Bunny Lost in Time demo](https://www.youtube.com/watch?v=mp2IP5O591Y)
