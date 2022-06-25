@@ -15,9 +15,9 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
-Yellow = (255,255,102)
+YELLOW = (255,255,102)
 
-BGColor = Yellow #set background color to yellow
+BGColor = YELLOW #set background color to yellow
 
 # Setup a 1000x1000 pixel display with caption
 SCREEN_WIDTH = 1000   #set width; could refactor to just one pixel size
